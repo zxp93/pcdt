@@ -1,1 +1,1 @@
-This code only used for JPDC paper reviewing.
+The source code for pcdt.
